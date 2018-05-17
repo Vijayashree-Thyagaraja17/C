@@ -1,4 +1,4 @@
-# C
+# Learning C
 Learning the programming in traditional way
 
 Hi Guys!
